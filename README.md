@@ -1,6 +1,5 @@
 <div align="center">
-  
-  <img src="Asset/javaScript crash course by pasacomputer Intro.jpg">
+  <img src="Asset/javaScript crash course by pasacomputer Banner.jpg">
   <h1> JavaScript crash course by Pasacomputer </h1>
 </div>
 
