@@ -3,7 +3,9 @@
   <h1> JavaScript crash course by Pasacomputer </h1>
 </div>
 
-### Table of contains
+> สำหรับการเรียนในครั้งนี้จะต้องขอขอบคุณ Course ดีจากโครงการของ KBTG และอาจารย์ผู้สอน อาจารย์บอย จากเพจ PasaComputer เป็นอย่างสูงนะครับ ที่สอนในโครงการนี้
+
+## Table of contains
 
 - [intro JavaScript](#intro-JavaScript)
 - [Variables](#variables)
@@ -25,9 +27,7 @@
 
 ### Conditions
 
-### Functioins
-
-### Flowcontens
+### Functioins### Flowcontens
 
 ### DOM Manipulate
 
