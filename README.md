@@ -25,6 +25,8 @@
 
 ### Arithmetic Operator
 
+ตัวดำเนินการทางคณิตศาสตร์
+
 ### Conditions
 
 ### Functioins### Flowcontens
