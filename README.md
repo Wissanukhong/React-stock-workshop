@@ -10,7 +10,7 @@
 - [intro JavaScript](#intro-JavaScript)
 - [Variables](#variables)
 - [Data type](#data-types)
-- [Arithetic Operator](#Arithetic-Operator)
+- [Arithmetic Operator](#Arithmetic-Operator)
 - [Conditions](#conditions)
 - [Functions](#functions)
 - [Flowcontens](#Flowcontens)
@@ -23,7 +23,7 @@
 
 ### Data Types
 
-### Arithetic Operator
+### Arithmetic Operator
 
 ### Conditions
 
