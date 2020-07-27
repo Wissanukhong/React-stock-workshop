@@ -8,12 +8,13 @@ if (age > 18) {
 }
 
 // ต้องการให้ Password มากกว่า 8 แต่ไม่เกิน 15 ตัวอักษร และไม่เป็นค่าว่าง
+// ใช้ condition แบบ if else if 
 let password = "";
 
 if (password === "") {
     console.log("Password require");
 } else if (password.length >= 8 && password.length <= 12) {
-    console.log("password is valid")
+    console.log("password is valid");
 } else {
     console.log("Password is not invalid");
 }
