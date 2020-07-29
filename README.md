@@ -21,13 +21,31 @@
 
 ภาษา javaScript เป็นภาษาโปรแกรมเชิงวัตถุแบบ Dynamic Type ซึ่งการ Run ภาษา javaScript นั้นจะถูก Run ผ่าน Engine ที่เราคุ้นเคยกันเป็นอย่างดีอยู่แล้ว เช่น Google chrome, Firefox, Microsoft Edge เป็นต้น
 
->Note : Dynamic Type คือโปรแกรมจะไม่ทำการตรวจสอบ Type ก่อนการ Run-time (Interperted) นั้นเอง ข้อดีของการเขียนโปรแกรมแบบ Dynamic Type คือเราไม่ต้อง Declare valueให้กับตัวแปร(Variables) ที่ไม่จำเป็นก่อน และเราสามารถเปลี่ยนแปลงค่าได้ภายหลังได้อีกด้วย
+> Note : Dynamic Type คือโปรแกรมจะไม่ทำการตรวจสอบ Type ก่อนการ Run-time (Interperted) นั้นเอง ข้อดีของการเขียนโปรแกรมแบบ Dynamic Type คือเราไม่ต้อง Declare valueให้กับตัวแปร(Variables) ที่ไม่จำเป็นก่อน และเราสามารถเปลี่ยนแปลงค่าได้ภายหลังได้อีกด้วย
 
 ซึ่งในปัจจุบันภาษา javaScript ได้รับความนิยมเป็นอย่างมากในการพัฒนา Web application และยังมี Framework, Libraly จำนวนมากที่ถูกสร้างมาจากภาษา javaScript ยกตัวอย่างเช่น ReactJS, Angular, VueJS เป็นต้น
 
 ### Variables
 
+ในภาษา javaScript จะมีการแบ่ง Variables ออกเป็นทั้งหมด 3 ชนิด ดังต่อไปนี้
+
+- var ตัวแปรแบบ Global variable
+
+- let ตัวแปร ที่สามารถเปลี่ยนแปลงค่าได้ตาม Block scope
+
+- const ตัวแปรคงที่ ที่ไม่สามารถเปลี่ยนแปลงค่าได้
+
 ### Data Types
+
+ภาษา javaScript จะถูกแบ่ง Data type ออกเป็นสิ่งต่างๆ ดังนี้
+|No.|Description|Resault|
+|---|---|---|
+|01|String|'Test',"text"|
+|02|Number|0, 1, ..n|
+|03|Boolean|Treu/False|
+|04|Undefinde|it is not assignment the value|
+|05|Null|We assign this value |
+|06|Object||
 
 ### Arithmetic Operator
 
