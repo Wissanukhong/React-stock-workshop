@@ -47,7 +47,7 @@
 6. Object
 7. Symbols เป็นสัญญาลักษณ์
 
-![datatype](Asset\Javascript-DataType.png)
+![datatype](Asset/Javascript-DataType.png)
 
 ### Arithmetic Operator
 
