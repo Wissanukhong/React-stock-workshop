@@ -38,14 +38,16 @@
 ### Data Types
 
 ภาษา javaScript จะถูกแบ่ง Data type ออกเป็นสิ่งต่างๆ ดังนี้
-|No.|Description|Resault|
-|---|---|---|
-|01|String|'Test',"text"|
-|02|Number|0, 1, ..n|
-|03|Boolean|Treu/False|
-|04|Undefinde|it is not assignment the value|
-|05|Null|We assign this value |
-|06|Object||
+
+1. String มีค่าเป็นตัวอักษร โดยจะใช้ 'string ที่เราต้องการ' หรือว่า "string ที่เราต้องการ"
+2. Number ค่าที่เรา assignment สามารถเติมตัวได้เลย เช่น 1 2 3 4 .. N
+3. Boolean จะมีค่าเป็น True, False
+4. Undefined จะเป็นค่าของตัวแปรที่ไม่ถูก Assign ค่าลงไป
+5. Null เป็นค่าว่างที่เรา Assign ค่าลงไปโดยตรง
+6. Object
+7. Symbols เป็นสัญญาลักษณ์
+
+![datatype](Asset\Javascript-DataType.png)
 
 ### Arithmetic Operator
 
