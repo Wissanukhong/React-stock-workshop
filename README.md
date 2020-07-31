@@ -7,6 +7,7 @@
 
 ## Table of contains
 
+- [Link สำหรับเข้าเรียน](https://www.youtube.com/watch?v=Tz5Wk1yPlBE&feature=youtu.be)
 - [intro javaScript](#intro-javaScript)
 - [Variables](#variables)
 - [Data type](#data-types)
@@ -77,3 +78,27 @@ document, appendChild(Element);
 ```
 
 ### Event
+
+### CSS
+
+- CSS universal selectors select any type of elements in an HTML page
+- What is rem ?
+
+```css
+body {
+  margin: 0;
+  text-align: center;
+  padding: 2rem 15rem;
+  /* top, bottom nd left, rignt*/
+}
+```
+อธิบาย Code ในส่วนของ padding
+![padding](Asset/padding.png)
+
+key:value // คำสั่งนี้ใช้ในการ Clear value ของ Browser ที่เป็นนสีดำเมื่อเรา เอาเมาส์ไปชี้หรือว่าคลิกออก
+
+```css
+input:focus {
+  outline: none;
+}
+```

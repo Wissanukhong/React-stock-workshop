@@ -1,1 +1,9 @@
-// DOM manipulations
+function appendImageElem () {
+    
+}
+
+function run () {
+
+}
+
+run();
