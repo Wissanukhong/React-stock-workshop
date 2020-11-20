@@ -8,15 +8,17 @@
 
 ## Table of contains
 
-- [intro javaScript](#intro-javaScript)
-- [Variables](#variables)
-- [Data type](#data-types)
-- [Arithmetic Operator](#Arithmetic-Operator)
-- [Conditions](#conditions)
-- [Functions](#functions)
-- [Flowcontens](#Flowcontens)
-- [DOM Manipulate](#DOM-Manipulate)
-- [Event](#event)
+- [Table of contains](#table-of-contains)
+  - [Inrtro javaScript](#inrtro-javascript)
+  - [Variables](#variables)
+  - [Data Types](#data-types)
+  - [Arithmetic Operator](#arithmetic-operator)
+  - [Conditions](#conditions)
+  - [Functioins](#functioins)
+  - [Flow control](#flow-control)
+  - [DOM Manipulate](#dom-manipulate)
+  - [Event](#event)
+  - [CSS](#css)
 
 ### Inrtro javaScript
 
@@ -55,11 +57,11 @@
 ตัวดำเนินการทางคณิตศาสตร์ เป็นตัวดำเนินการที่เราเอาไว้ บวก ลบ คูณ หาร หรือว่า ยกกำลัง โดยตัวดำเนินการทางคณิศาสตร์นั้น จะมีลำดับความสำคัญในการ บวก ลบ คูณ หาร หรือว่า ยกกำลัง ซึ่งเราควรใส่ วงเล็บ เพื่อเป็นการย้ำความสำคัญของการคำนวณด้วย โดยตัวดำเนินการทางคณิตศาสตร์ จะประกอบไปด้วย สัญญาลักษณ์ ดังต่อไปนี้
 
 | ตำเนินการทางคณิตศาสตร์(Operator) | ความหมาย | ตัวอย่าง | ผลลัพธ์ |
-| -------------------------------- | -------- | -------- | ------- |
-| +                                | บวก      | 6+3      | 9       |
-| -                                | ลูบ       | 6-3      | 3       |
-| \*                               | คูณ      | 6\*3     | 18      |
-| /                                | หาร      | 6/3      | 2       |
+| ---------------------------- | -------- | ------ | ----- |
+| +                            | บวก      | 6+3    | 9     |
+| -                            | ลูบ       | 6-3    | 3     |
+| \*                           | คูณ       | 6\*3   | 18    |
+| /                            | หาร      | 6/3    | 2     |
 
 ### Conditions
 
@@ -98,7 +100,7 @@ function yearOld() {
 yearOld();
 ```
 
-### Flowcontens
+### Flow control
 
 ในการเขียนโปรแกรมจะมีขั้นตอนหนึ่งที่เรียกว่า การวนซ้ำ เพื่อเป็นการลดขั้นตอนการทำงานแบบเดิมออก โดยในที่นี่เราเรียกว่า Loop โดย Loop จะถูกแบ่งออกเป็นแต่ละประเภทดังต่อไปนี้ คือ
 
